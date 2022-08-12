@@ -1,1 +1,2 @@
 Esto es una actividad de introduccion a la informatica
+Este es el color azul agregado por participante A y luego modificado
